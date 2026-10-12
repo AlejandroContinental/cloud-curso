@@ -1,0 +1,7 @@
+node_modules
+.git
+.env
+npm-debug.log
+-- nano .gitignore
+node_modules/
+.env
